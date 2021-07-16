@@ -1,0 +1,7 @@
+SELECT * FROM test.userdetails;
+
+insert into userdetails values( '1000', 'anc@123');
+insert into userdetails values( '1001', 'anc@435');
+insert into userdetails values( '1002', 'anc@5657');
+insert into userdetails values( '1003', 'anc@we5');
+insert into userdetails values( '1004', 'anc@qrwte');
